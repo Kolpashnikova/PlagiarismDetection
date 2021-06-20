@@ -28,4 +28,4 @@ This data is a slightly modified version of a dataset created by Paul Clough (In
 
 ## Model
 
-A Decision Tree model with 96% accuracy.
+A Decision Tree model with 92% accuracy.
